@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=SaranyaSelvaradjou)
-# [Applied Data Science Capstone](https://github.com/SaranyaSelvaradjou/Applied-Data-Science-Capstone-IBM/blob/main/Applied%20Capstone%20Project%20IBM.pdf)
+# [Applied Data Science Capstone](https://github.com/SaranyaSelvaradjou/SpaceX-Applied-Capstone-IBM/blob/main/Applied%20Capstone%20Project%20IBM.pdf)
 ![1](https://user-images.githubusercontent.com/107552730/212277129-b508eafa-a675-49ed-93db-3099347a1795.png)
 
 # Summary 
